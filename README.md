@@ -1,4 +1,5 @@
 # model_timing
+From the Figure location column, click the webpage address to see the image of ESMF profiling. Click any filled area of the image to get detailed information. To return to the original image, click the reload button on the location/address bar of the web browser.
 
 # P7 tests
 | Test name   | Description | Figure location |
